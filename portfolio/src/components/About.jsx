@@ -8,7 +8,10 @@ export default function About() {
       <div className="max-w-4xl text-center">
         <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-12">About Me</h2>
         <p className="text-lg text-gray-700 leading-relaxed mb-12">
-          Write your about me section here. Share your background, experience, and what you're passionate about.
+          I'm a CSE (AI & ML) undergraduate passionate about crafting seamless, intelligent digital experiences. I love building
+            interactive and visually engaging interfaces, exploring data-driven systems, and applying machine learning concepts to
+            solve real-world problems. I'm driven by curiosity, creativity, and the desire to turn complex ideas into intuitive
+            and meaningful products.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
