@@ -74,7 +74,7 @@ export default function Skills() {
                     key={item}
                     className="flex items-center gap-2 px-3 py-2 bg-gray-100 text-gray-700 rounded-md text-sm hover:bg-gray-200 transition-colors"
                   >
-                    <FaCodeBranch size={16} className="text-gray-600" />
+                    {/* <FaCodeBranch size={16} className="text-gray-600" /> */}
                     <span>{item}</span>
                   </div>
                 ))}
